@@ -1,21 +1,14 @@
-[A1 - Injection](./R5-A1-Injection)
+<img src="https://raw.githubusercontent.com/OWASP/railsgoat/master/app/assets/images/railsgoat.png" align="center" height="200" width="200" >
 
-[A2 - Broken Authentication and Session Management](./A2-Broken-Authentication-and-Session-Management)
+### Table of Contents
 
-[A3 - Cross-Site Scripting "XSS"](./A3-XSS)
 
-[A4 - Insecure Direct Object Reference](./A4-IDOR)
+##### The tutorials are broken up by Rails version. Rails 3 and 4 vary in some ways that fix or introduce various security issues. Each version features tutorials to demonstrate these. Rails 4 and 5 tutorials name will be proceeded by R4 and R5.
 
-[A5 - Security Misconfiguration](./R4-A5-Security-Misconfiguration)
+[Rails 3 - Tutorials](./Rails-3-Tutorials)
 
-[A6 - Sensitive Data Exposure](./A6-Sensitive-Data-Exposure)
+[Rails 4 - Tutorials](./Rails-4-Tutorials)
 
-[A7 - Missing Function Level Access Control](./A7-Missing-Function-Level-Access-Control)
+[Rails 5 - Tutorials](./Rails-5-Tutorials)
 
-[A8 - Cross Site Request Forgery](./R4-A8-Cross-Site-Request-Forgery)
-
-[A9 - Using Components with Known Vulnerabilities](./A9-Using-Components-with-Known-Vulnerabilities)
-
-[A10 - Unvalidated Redirects and Forwards](./A10-Unvalidated-Redirects-and-Forwards)
-
-[Extras - URLs vs URIs](./Extras---URLs-vs-URIs)
+[RailsGoat Summer of Code-Type Project Information](./RailsGoat-Summer-of-Code-Type-Project-Information)
